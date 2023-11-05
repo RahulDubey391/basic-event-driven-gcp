@@ -1,0 +1,4 @@
+pandas
+requests
+pyarrow==10.0.1
+google-cloud-pubsub
